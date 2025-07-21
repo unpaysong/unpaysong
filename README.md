@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👨‍💻 unpaysong | Technical Artist in Progress
 
-<!--
-**unpaysong/unpaysong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 13-year-old aspiring Technical Artist  
+🎮 Goal: Join CD Projekt Red (CDPR)  
+🎨 Focus: Realistic Art + Technical Pipeline  
+🛠 Tools: Blender, Maya, Unreal Engine 5, Python, Git
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects
+- 🧠 Procedural Character Rig System (WIP)
+- 🔍 Shader-based Realistic Skin Material (WIP)
+- ✨ Blender Node Tool for Stylized FX (Coming soon)
+
+---
+
+## 📚 Learning Logs
+- [Notion 技术日志 →](#)  
+- [Weekly Study Highlights →](#)
+
+---
+
+## 🧱 Current Stack
+![Tools](https://img.shields.io/badge/-Maya-blue)
+![Tools](https://img.shields.io/badge/-Blender-orange)
+![Code](https://img.shields.io/badge/-Python-3776AB)
+![Engine](https://img.shields.io/badge/-Unreal_Engine-0E1128)
+![Pipeline](https://img.shields.io/badge/-Git-black)
+
+---
+
+📬 *Always building, always growing.*
